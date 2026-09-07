@@ -68,6 +68,4 @@
 
 ## License
 
-MIT
 
-本项目基于 [woyeyao/Git-Interactive-Tutorial](https://github.com/woyeyao/Git-Interactive-Tutorial) 修改，感谢原作者与所有贡献者。
