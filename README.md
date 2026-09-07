@@ -1,12 +1,12 @@
 # git-practice · KingDream 的 Git 练习
 
-**在线演示**: https://q2730970347.github.io/git-practice/
+**在线演示**: (https://kingdream-cn.github.io/git-practice/)
 
 ![概览](./assets/概览.png)
 
 > 多练就能会。
 
-新手友好的 Git 交互式入门中文教程，帮助理解 Git 的「四个区域」是如何联动的。本项目基于 [woyeyao/Git-Interactive-Tutorial](https://github.com/woyeyao/Git-Interactive-Tutorial)（MIT 协议）定制而来。
+新手友好的 Git 交互式入门中文教程，帮助理解 Git 的「四个区域」是如何联动的。
 
 ## 功能特点
 
