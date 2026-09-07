@@ -41,9 +41,9 @@
 ## 部署到 GitHub Pages
 
 1. 在 GitHub 新建仓库 `git-practice`
-2. 推送代码：`git init && git add . && git commit -m "init" && git branch -M main && git remote add origin https://github.com/q2730970347/git-practice.git && git push -u origin main`
+2. 推送代码：`git init && git add . && git commit -m "init" && git branch -M main && git remote add origin https://github.com/kingdream-cn/git-practice.git && git push -u origin main`
 3. 在仓库 `Settings → Pages` 中，将 Source 设为 `main` 分支根目录
-4. 等待部署完成，访问 `https://q2730970347.github.io/git-practice/`
+4. 等待部署完成，访问 `https://kingdream-cn.github.io/git-practice/`
 
 ## 项目结构
 
